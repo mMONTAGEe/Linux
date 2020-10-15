@@ -17,9 +17,14 @@ body{
     background-color: rgb(105,105,105);
     border: 5px cyan;
     padding: 13px;
-    background-image: url(img/background.jpg);
     padding: 0px 0px;
     margin: 100px;
+    
+    background: url('img/background.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 
     text-decoration:underline;
     text-transform:uppercase;
