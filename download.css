@@ -1,0 +1,13 @@
+img{
+    Border: solid 8px;
+    margin: 0 auto;
+    color: cyan;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 4px cyan, 0 0 10px  cyan, 0 0 20px cyan;
+}
+
+hr{
+    box-shadow: 0 0 10px cyan, 0 0 40px  cyan, 0 0 80px cyan;
+    color: cyan;
+}
